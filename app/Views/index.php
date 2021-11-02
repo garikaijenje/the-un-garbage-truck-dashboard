@@ -6,7 +6,9 @@
 	<title>The Un-Garbage Truck</title>
 	<meta name="description" content="Access Forex Middleware">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="shortcut icon" type="image/png" href="/favicon.ico" />
+	<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+	<meta http-equiv="Pragma" content="no-cache" />
+	<meta http-equiv="Expires" content="0" />
 </head>
 
 <body>

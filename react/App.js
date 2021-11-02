@@ -5,7 +5,6 @@ import './App.css'
 // import "./tailwind/style.css"
 import Routes from './Routes';
 
-
 ReactDOM.render(
   <React.StrictMode>
       <Router>

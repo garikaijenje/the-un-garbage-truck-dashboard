@@ -37,6 +37,7 @@ $routes->set404Override(function () {
 // route since we don't have to scan directories.
 $routes->get('/', 'Home::index');
 $routes->get('/uuid', 'Home::uuid');
+$routes->get('/qr', 'Home::qr');
 
 /*
  * --------------------------------------------------------------------
